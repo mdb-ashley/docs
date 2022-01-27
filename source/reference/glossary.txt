@@ -768,7 +768,7 @@ Glossary
       query plan. See :ref:`read-operations-query-optimization`.
 
    query shape
-      A combination of query predicate, sort, and projection.
+      A combination of query predicate, sort, projection, and collation.
 
       For the query predicate, only the structure of the predicate,
       including the field names, are significant; the values in the
